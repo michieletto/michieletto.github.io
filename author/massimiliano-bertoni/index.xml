@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Massimiliano Bertoni | Wowchemy Research Group</title>
+    <link>http://localhost:1313/author/massimiliano-bertoni/</link>
+      <atom:link href="http://localhost:1313/author/massimiliano-bertoni/index.xml" rel="self" type="application/rss+xml" />
+    <description>Massimiliano Bertoni</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>http://localhost:1313/author/massimiliano-bertoni/avatar_hu94d43eaad793ce94474364d344c68819_43054_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Massimiliano Bertoni</title>
+      <link>http://localhost:1313/author/massimiliano-bertoni/</link>
+    </image>
+    
+  </channel>
+</rss>

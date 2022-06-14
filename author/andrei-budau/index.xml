@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andrei Budau | Wowchemy Research Group</title>
+    <link>http://localhost:1313/author/andrei-budau/</link>
+      <atom:link href="http://localhost:1313/author/andrei-budau/index.xml" rel="self" type="application/rss+xml" />
+    <description>Andrei Budau</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>http://localhost:1313/author/andrei-budau/avatar_hudc1b49236c3ef0837aafcf80c95ba2e6_28512_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Andrei Budau</title>
+      <link>http://localhost:1313/author/andrei-budau/</link>
+    </image>
+    
+  </channel>
+</rss>

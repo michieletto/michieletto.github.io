@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Riccardo Antonello | Wowchemy Research Group</title>
+    <link>http://localhost:1313/author/riccardo-antonello/</link>
+      <atom:link href="http://localhost:1313/author/riccardo-antonello/index.xml" rel="self" type="application/rss+xml" />
+    <description>Riccardo Antonello</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>http://localhost:1313/author/riccardo-antonello/avatar_hu0097a5549f41987ef5bbb621c05bbc6d_4489_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Riccardo Antonello</title>
+      <link>http://localhost:1313/author/riccardo-antonello/</link>
+    </image>
+    
+  </channel>
+</rss>

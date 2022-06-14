@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Giulia Michieletto | Wowchemy Research Group</title>
+    <link>http://localhost:1313/author/giulia-michieletto/</link>
+      <atom:link href="http://localhost:1313/author/giulia-michieletto/index.xml" rel="self" type="application/rss+xml" />
+    <description>Giulia Michieletto</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>http://localhost:1313/author/giulia-michieletto/avatar_hue60163891e88a2746bd1c2aed1c764d7_34352_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Giulia Michieletto</title>
+      <link>http://localhost:1313/author/giulia-michieletto/</link>
+    </image>
+    
+  </channel>
+</rss>
